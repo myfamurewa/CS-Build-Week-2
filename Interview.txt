@@ -1,0 +1,44 @@
+Describing your Code in an Interview
+______________________________________
+
+Some techniques for realizing during the interview:
+
+Pretend you already have the job and the interviewer is a coworker who came to you for help on a difficult problem.
+
+* If you already had the job, there's no stress
+* Reframes the situation from an interview to just problem-solving
+* Puts you in cooperative mindset
+* It forces you to teach the problem and solution
+
+UPER is the key to it all
+______________________________________
+
+Understand
+* Ask questions about the problem
+* Have a dialog with the interviewer 
+* Put the problem in your own words to make sure that you understand what is being asked
+* Think of similar questions that you've already solved
+ 
+Plan
+* Come up with multiple plans, if possible
+* Don't ignore the naive plans
+* Teach the plan to the interviewer
+* Think in big concepts
+
+
+Execute
+* If you're describing your existing code:
+    * The interviewer is going to be looking for places where the concepts match up with your code
+    * The better you explain your code the easier time the interviewer will have understanding
+    * Either have easy to understand code or do a code job explaining your process to the interviewer
+    * Try to do both
+    * Point out interesting things in it
+
+* If you're writing new code:
+    * THe interviewer will still look for where the concepts match the blocks of code
+    * Actually code it up at this point
+
+Reflect
+* What could we have done better?
+* Future directions and features
+* If you made any mistakes, point them out with solutions.
